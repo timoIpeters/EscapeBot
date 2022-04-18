@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="HaskellBuildOptions">
+    <ghcPath>D:\HaskellPlatform\8.6.5\bin\ghc.exe</ghcPath>
+    <cabalPath>D:\HaskellPlatform\8.6.5\lib\extralibs\bin\cabal.exe</cabalPath>
+    <stackPath>C:\Users\timop\AppData\Roaming\local\bin\stack.exe</stackPath>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_9" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+  <component name="SvnBranchConfigurationManager">
+    <option name="myConfigurationMap">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="branchUrls">
+                <list>
+                  <option value="https://stud.fh-wedel.de/repos/uebungen/ppws/ppws_22/tags" />
+                </list>
+              </option>
+              <option name="trunkUrl" value="https://stud.fh-wedel.de/repos/uebungen/ppws/ppws_22/trunk" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
